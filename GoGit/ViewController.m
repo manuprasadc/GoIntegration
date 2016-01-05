@@ -21,7 +21,7 @@
 
 - (void)didReceiveMemoryWarning {
   [super didReceiveMemoryWarning];
-  //Updated Online
+  //Updated From Web
   // Dispose of any resources that can be recreated.
 }
 
