@@ -21,6 +21,8 @@
 
 - (void)didReceiveMemoryWarning {
   [super didReceiveMemoryWarning];
+  //Updated From Web
+  //Updated from Xcode
   // Dispose of any resources that can be recreated.
 }
 
